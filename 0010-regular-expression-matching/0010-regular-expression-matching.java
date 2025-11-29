@@ -17,8 +17,7 @@ class Solution {
 
                 if (p.charAt(j) == '.' || p.charAt(j) == s.charAt(i)) {
                     dp[i + 1][j + 1] = dp[i][j];
-                } 
-                else if (p.charAt(j) == '*') {
+                } else if (p.charAt(j) == '*') {
 
                     // zero occurrence of previous char
                     dp[i + 1][j + 1] = dp[i + 1][j - 1];
