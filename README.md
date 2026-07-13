@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1179-reformat-department-table) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
