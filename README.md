@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
