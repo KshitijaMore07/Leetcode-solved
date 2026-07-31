@@ -78,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0338-counting-bits) |
@@ -92,5 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0067-add-binary) |
 | [0917-reverse-only-letters](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0917-reverse-only-letters) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
