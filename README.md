@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
