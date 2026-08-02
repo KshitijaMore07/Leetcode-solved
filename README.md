@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/KshitijaMore07/Leetcode-solved/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
